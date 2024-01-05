@@ -1,10 +1,17 @@
 const firebaseConfig = {
-  apiKey: 'AIzaSyAYW5q4UisuXj8dDPd0c_vXCBW35T9qZ4I',
-  authDomain: 'tasksheet-abe90.firebaseapp.com',
-  projectId: 'tasksheet-abe90',
-  storageBucket: 'tasksheet-abe90.appspot.com',
-  messagingSenderId: '973728350096',
-  appId: '1:973728350096:web:47223d08d70bff31e0bd15',
+  apiKey: "AIzaSyAt6GaS5rZNxXLSaNf7QsDzR14akBQKNcU",
+
+  authDomain: "ganchat-dd078.firebaseapp.com",
+
+  projectId: "ganchat-dd078",
+
+  storageBucket: "ganchat-dd078.appspot.com",
+
+  messagingSenderId: "728824725279",
+
+  appId: "1:728824725279:web:4a49173d576f72e59aba2a",
+
+  measurementId: "G-TBX6YY8S41"
 };
 
 export default firebaseConfig;
